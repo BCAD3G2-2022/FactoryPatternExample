@@ -8,12 +8,11 @@ using Microsoft.Extensions.Logging;
 
 namespace BurgerAPI
 {
-    public class Cheese : IComponent
+    public class Tomato : IComponent
     {
         public string getPart()
         {
-            return "cheese";
+           return "Tomato";
         }
     }
-
 }

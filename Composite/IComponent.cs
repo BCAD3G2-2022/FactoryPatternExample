@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,12 +7,11 @@ using Microsoft.Extensions.Logging;
 
 namespace BurgerAPI
 {
-    public class Cheese : IComponent
+    public interface IComponent
     {
-        public string getPart()
-        {
-            return "cheese";
-        }
+        // returns the different parts to compose a bur
+        string getPart();
+
     }
 
 }
