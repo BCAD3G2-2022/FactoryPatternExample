@@ -5,14 +5,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace BurgerAPI
+namespace BurgerAPI 
 {
     public class Patty : IComponent
     {
-        public string getPart()
+        public string getBurgerPart()
         {
             return "patty";
         }
     }
-
 }

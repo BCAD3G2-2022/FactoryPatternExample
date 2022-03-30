@@ -10,6 +10,6 @@ public interface IBurger
 
   string getBun();
   string getPatty();
-
+ 
 
 }

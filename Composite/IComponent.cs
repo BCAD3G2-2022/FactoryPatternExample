@@ -9,9 +9,8 @@ namespace BurgerAPI
 {
     public interface IComponent
     {
-        // returns the different parts to compose a bur
-        string getPart();
-
+        public string getBurgerPart();
     }
-
+    //add parts of burger 
+    
 }

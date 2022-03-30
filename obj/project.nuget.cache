@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JqTdXcRS22jDLR2oDq+RobHpB/qhRX2lAWCO3hEqXvXStIkmXFiG3MyTnRS2gitVT7Smxev9QlsDBhZVn3v1PQ==",
+  "dgSpecHash": "Hp713KGEO91OppBPB3THWwKcI4A5tt9gRvasJd1m0/l4GzaLF8+cHeG1Al9973uVSZM4jFnWgWGEIrcs6BMnEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ctill\\Documents\\PROG7311_Resources\\BurgerAPI\\BurgerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ctill\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ctill\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ctill\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\ctill\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\ctill\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
