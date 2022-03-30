@@ -27,3 +27,4 @@ C:\Users\ctill\Documents\PROG7311_Resources\BurgerAPI\obj\Debug\net5.0\BurgerAPI
 C:\Users\ctill\Documents\PROG7311_Resources\BurgerAPI\obj\Debug\net5.0\ref\BurgerAPI.dll
 C:\Users\ctill\Documents\PROG7311_Resources\BurgerAPI\obj\Debug\net5.0\BurgerAPI.pdb
 C:\Users\ctill\Documents\PROG7311_Resources\BurgerAPI\obj\Debug\net5.0\BurgerAPI.genruntimeconfig.cache
+C:\Users\ctill\Documents\PROG7311_Resources\BurgerAPI\bin\Debug\net5.0\Newtonsoft.Json.dll

@@ -5,11 +5,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-public interface IBurger
+namespace BurgerAPI 
 {
-
-  string getBun();
-  string getPatty();
- 
-
+    public class Tomato : IComponent
+    {
+        public string getBurgerPart()
+        {
+            return "tomato";
+        }
+    }
 }
